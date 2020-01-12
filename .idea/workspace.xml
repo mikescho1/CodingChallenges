@@ -7,7 +7,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b5c1583-79f6-4414-a139-be15475d4d14" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/VanguardTrueFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/C.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HackerRank_jar/HackerRank.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HackerRank_jar/HackerRank.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/HackerRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/HackerRank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/Array2D_DS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/ArrayManipulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/LeftRotationArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/LeftRotationArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/MinimumSwaps2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/NewYearChaos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +57,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.michaelschoenbeck.hackerrank" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.michaelschoenbeck.hackerrank.interviewprepkit.warmupchallenges" />
     </key>
@@ -103,7 +118,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578776452567</updated>
-      <workItem from="1578776453946" duration="13856000" />
+      <workItem from="1578776453946" duration="14807000" />
+      <workItem from="1578853105943" duration="7511000" />
     </task>
     <servers />
   </component>
@@ -131,42 +147,54 @@
       <screen x="0" y="23" width="1680" height="999" />
     </state>
     <state x="535" y="435" width="626" height="174" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578778097881" />
-    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1578795674938">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1578866886824">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578795674938" />
-    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1578795674936">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886824" />
+    <state width="1638" height="334" key="GridCell.Tab.0.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146454" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1578866886822">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578795674936" />
-    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1578795674935">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886822" />
+    <state width="1638" height="334" key="GridCell.Tab.0.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146453" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1578866886821">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578795674935" />
-    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1578795674937">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886821" />
+    <state width="1638" height="334" key="GridCell.Tab.0.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146452" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1578866886823">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578795674937" />
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom" timestamp="1578793760694">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886823" />
+    <state width="1638" height="334" key="GridCell.Tab.0.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146454" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1578866858318">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760694" />
-    <state width="1638" height="334" key="GridCell.Tab.1.center" timestamp="1578793760693">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="357" key="GridCell.Tab.1.bottom/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866858318" />
+    <state width="1638" height="334" key="GridCell.Tab.1.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146457" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center" timestamp="1578866858316">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760693" />
-    <state width="1638" height="334" key="GridCell.Tab.1.left" timestamp="1578793760692">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="357" key="GridCell.Tab.1.center/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866858316" />
+    <state width="1638" height="334" key="GridCell.Tab.1.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146456" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left" timestamp="1578866858315">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760692" />
-    <state width="1638" height="334" key="GridCell.Tab.1.right" timestamp="1578793760693">
-      <screen x="0" y="23" width="1680" height="999" />
+    <state width="1878" height="357" key="GridCell.Tab.1.left/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866858315" />
+    <state width="1638" height="334" key="GridCell.Tab.1.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146455" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right" timestamp="1578866858317">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760693" />
+    <state width="1878" height="357" key="GridCell.Tab.1.right/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866858317" />
+    <state width="1638" height="334" key="GridCell.Tab.1.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146456" />
     <state x="328" y="104" key="SettingsEditor" timestamp="1578776891511">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
     <state x="328" y="104" key="SettingsEditor/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578776891511" />
+    <state x="-1281" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1578853105469">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1281" y="384" key="com.intellij.ide.util.TipDialog/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578853105469" />
     <state x="505" y="243" width="670" height="676" key="search.everywhere.popup" timestamp="1578777039150">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
@@ -180,14 +208,17 @@
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="s.length()" language="JAVA" />
-        <watch expression="s.charAt(i)" language="JAVA" />
-        <watch expression="s.charAt(i" />
-        <watch expression="numOfSs" />
+        <watch expression="str.charAt(i)" />
+        <watch expression="str.charAt(str.length() - 1 - i" />
       </configuration>
     </watches-manager>
   </component>
