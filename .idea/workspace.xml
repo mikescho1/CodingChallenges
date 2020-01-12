@@ -7,19 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b5c1583-79f6-4414-a139-be15475d4d14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/VanguardTrueFalse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/HackerRank_jar/HackerRank.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HackerRank_jar/HackerRank.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/HackerRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/HackerRank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/Array2D_DS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/ArrayManipulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/LeftRotationArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/LeftRotationArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/MinimumSwaps2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/com/michaelschoenbeck/hackerrank/interviewprepkit/arrays/NewYearChaos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/interviewchallenges/vanguard/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/interviewchallenges/vanguard/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/interviewchallenges/vanguard/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +56,11 @@
   </component>
   <component name="RunManager">
     <configuration name="HackerRankJar" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.michaelschoenbeck.hackerrank.HackerRank" />
-      <module name="HackerRank" />
+      <option name="MAIN_CLASS_NAME" value="com.michaelschoenbeck.ChallengesMain" />
+      <module name="CodingChallenges" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.michaelschoenbeck.hackerrank.*" />
+          <option name="PATTERN" value="com.michaelschoenbeck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +78,53 @@
         <option name="BuildArtifacts" enabled="true">
           <artifact name="HackerRank:jar" />
         </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="CodingChallenges" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="CodingChallenges" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
@@ -119,7 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578776452567</updated>
       <workItem from="1578776453946" duration="14807000" />
-      <workItem from="1578853105943" duration="7511000" />
+      <workItem from="1578853105943" duration="8376000" />
     </task>
     <servers />
   </component>
@@ -147,25 +184,25 @@
       <screen x="0" y="23" width="1680" height="999" />
     </state>
     <state x="535" y="435" width="626" height="174" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578778097881" />
-    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1578866886824">
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1578867393466">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="289" key="GridCell.Tab.0.bottom/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886824" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578867393466" />
     <state width="1638" height="334" key="GridCell.Tab.0.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146454" />
-    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1578866886822">
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1578867393465">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="289" key="GridCell.Tab.0.center/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886822" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578867393465" />
     <state width="1638" height="334" key="GridCell.Tab.0.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146453" />
-    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1578866886821">
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1578867393464">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="289" key="GridCell.Tab.0.left/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886821" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578867393464" />
     <state width="1638" height="334" key="GridCell.Tab.0.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146452" />
-    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1578866886823">
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1578867393465">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="289" key="GridCell.Tab.0.right/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578866886823" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/-3600.23.1680.999/-1920.23.1920.1057/-1723.1103.1280.777/0.23.1680.1027@-1920.23.1920.1057" timestamp="1578867393465" />
     <state width="1638" height="334" key="GridCell.Tab.0.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578801146454" />
     <state width="1878" height="357" key="GridCell.Tab.1.bottom" timestamp="1578866858318">
       <screen x="-1920" y="23" width="1920" height="1057" />
@@ -207,11 +244,6 @@
           <url>file://$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/CountingValleys.java</url>
           <line>15</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

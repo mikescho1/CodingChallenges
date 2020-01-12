@@ -2,7 +2,7 @@
   <artifact type="jar" name="HackerRank:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/HackerRank_jar</output-path>
     <root id="archive" name="HackerRank.jar">
-      <element id="module-output" name="HackerRank" />
+      <element id="module-output" name="CodingChallenges" />
     </root>
   </artifact>
 </component>

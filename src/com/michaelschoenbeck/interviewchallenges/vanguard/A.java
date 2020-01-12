@@ -1,4 +1,4 @@
-package com.michaelschoenbeck.hackerrank.interviewprepkit.warmupchallenges;
+package com.michaelschoenbeck.interviewchallenges.vanguard;
 
 public class A {
 
