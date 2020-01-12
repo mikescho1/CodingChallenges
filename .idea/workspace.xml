@@ -8,7 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1b5c1583-79f6-4414-a139-be15475d4d14" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/JumpingOnTheClouds.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/JumpingOnTheClouds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/HackerRank_jar/HackerRank.jar" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/HackerRank_jar/HackerRank.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/HackerRank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/RepeatedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/RepeatedString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578776452567</updated>
-      <workItem from="1578776453946" duration="7019000" />
+      <workItem from="1578776453946" duration="12384000" />
     </task>
     <servers />
   </component>
@@ -132,38 +134,38 @@
       <screen x="0" y="23" width="1680" height="999" />
     </state>
     <state x="535" y="435" width="626" height="174" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578778097881" />
-    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1578784778555">
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom" timestamp="1578794057030">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784778555" />
-    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1578784778552">
+    <state width="1638" height="270" key="GridCell.Tab.0.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578794057030" />
+    <state width="1638" height="270" key="GridCell.Tab.0.center" timestamp="1578794057028">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784778552" />
-    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1578784778551">
+    <state width="1638" height="270" key="GridCell.Tab.0.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578794057028" />
+    <state width="1638" height="270" key="GridCell.Tab.0.left" timestamp="1578794057028">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784778551" />
-    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1578784778553">
+    <state width="1638" height="270" key="GridCell.Tab.0.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578794057028" />
+    <state width="1638" height="270" key="GridCell.Tab.0.right" timestamp="1578794057029">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="270" key="GridCell.Tab.0.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784778553" />
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom" timestamp="1578784496319">
+    <state width="1638" height="270" key="GridCell.Tab.0.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578794057029" />
+    <state width="1638" height="334" key="GridCell.Tab.1.bottom" timestamp="1578793760694">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784496319" />
-    <state width="1638" height="334" key="GridCell.Tab.1.center" timestamp="1578784496317">
+    <state width="1638" height="334" key="GridCell.Tab.1.bottom/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760694" />
+    <state width="1638" height="334" key="GridCell.Tab.1.center" timestamp="1578793760693">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784496317" />
-    <state width="1638" height="334" key="GridCell.Tab.1.left" timestamp="1578784496317">
+    <state width="1638" height="334" key="GridCell.Tab.1.center/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760693" />
+    <state width="1638" height="334" key="GridCell.Tab.1.left" timestamp="1578793760692">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784496317" />
-    <state width="1638" height="334" key="GridCell.Tab.1.right" timestamp="1578784496318">
+    <state width="1638" height="334" key="GridCell.Tab.1.left/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760692" />
+    <state width="1638" height="334" key="GridCell.Tab.1.right" timestamp="1578793760693">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
-    <state width="1638" height="334" key="GridCell.Tab.1.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578784496318" />
+    <state width="1638" height="334" key="GridCell.Tab.1.right/3600.23.1680.1027/2009.1103.1280.777/0.23.1680.999/1680.23.1920.1057@0.23.1680.999" timestamp="1578793760693" />
     <state x="328" y="104" key="SettingsEditor" timestamp="1578776891511">
       <screen x="0" y="23" width="1680" height="999" />
     </state>
@@ -181,11 +183,24 @@
           <line>15</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/RepeatedString.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/michaelschoenbeck/hackerrank/interviewprepkit/warmupchallenges/RepeatedString.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="steps[i]" />
+        <watch expression="s.length()" language="JAVA" />
+        <watch expression="s.charAt(i)" language="JAVA" />
+        <watch expression="s.charAt(i" />
+        <watch expression="numOfSs" />
       </configuration>
     </watches-manager>
   </component>
